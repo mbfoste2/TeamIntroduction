@@ -1,1 +1,24 @@
-
+Raesfeld = Raesfeld
+Flughafen = Airport
+Berlin = Berlin
+Bratwurst = Bratwurst
+Hauptstrasse = Main Road
+Brot = Bread
+Gauss = Gauss
+Klimaanlage = Air Conditioning
+Rammstein = Rammstein
+Musik = Music
+Porsche = Porche
+BMW = BMW
+Biergarten = Beer Garden
+Ratskeller = Council Cellar
+Dirndel = Dirndel
+Lederhose = Leather Pants
+Audi = Audi
+Schloss = Lock
+Munich = Munich
+wettbewerbsfaehig = Competitive
+Mehlhase = Mehlhase
+Gebaeck = Pastries
+Baeckerei = Bakery
+Hund = Dog
